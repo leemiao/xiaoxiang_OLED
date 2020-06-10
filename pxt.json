@@ -1,7 +1,7 @@
 {
-    "name": "SSD1306_OLED",
+    "name": "limiao_xiaoxiang_OLED",
     "version": "2.0.9",
-    "description": "Tinkercademy package for SSD1306 OLED controller",
+    "description": "小象编程_OLED控制模块",
     "license": "MIT",
     "dependencies": {
         "core": "*"
