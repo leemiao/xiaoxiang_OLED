@@ -1,10 +1,10 @@
 {
-  "OLED.clear|block": "clear OLED display",
+  "OLED.clear|block": "清除 OLED 显示",
   "OLED.drawLine|block": "draw line from:|x: $x0 y: $y0 to| x: $x1 y: $y1",
   "OLED.drawLoading|block": "draw loading bar at $percent percent",
   "OLED.drawRectangle|block": "draw rectangle from:|x: $x0 y: $y0 to| x: $x1 y: $y1",
   "OLED.init|block": "initialize OLED with width $width height $height",
-  "OLED.newLine|block": "insert newline",
+  "OLED.newLine|block": "插入新行",
   "OLED.writeNumNewLine|block": "show number $n",
   "OLED.writeNum|block": "show (without newline) number $n",
   "OLED.writeStringNewLine|block": "show string $str",
